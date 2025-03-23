@@ -26,7 +26,7 @@
 
 <p>&nbsp;
   <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ifindary" height="150" alt="stats graph"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=ifindary&show_icons=true&locale=en" height="150" alt="stats graph"  />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ifindary&show_icons=true&locale=en&layout=compact" height="150" alt="languages graph"  />
   </div>
 </p>
