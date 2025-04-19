@@ -31,10 +31,14 @@
   </div>
 </p>
 
+### Leetcode
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/ifindary)
+
 <!--
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=ifindary)
 -->
-    
+
 <!--
 **ifindary/ifindary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
