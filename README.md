@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Seonae Yeon</h1>
 <h3 align="center">A passionate iOS developer from Korea</h3>
 
+### 🚀 What I'm Working On
+
+- Studying at the **Apple Developer Academy** to grow as a creative iOS developer
+- Practicing **data structures and algorithms** on LeetCode
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/seonae-yeon" target="_blank">
@@ -30,8 +35,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ifindary&show_icons=true&locale=en&layout=compact" height="150" alt="languages graph"  />
   </div>
 </p>
-
-### Leetcode
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ifindary)
 
