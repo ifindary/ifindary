@@ -6,14 +6,8 @@
 - Studying at the **Apple Developer Academy** to grow as a creative iOS developer
 - Practicing **data structures and algorithms** on LeetCode
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/seonae-yeon" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</p>
+### 🛠️ My Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
   <img width="5" />
@@ -27,14 +21,22 @@
 </div>
 </p>
 
-<p></p>
+### 🤝 Connect with Me
 
-<p>&nbsp;
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ifindary&show_icons=true&locale=en" height="150" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ifindary&show_icons=true&locale=en&layout=compact" height="150" alt="languages graph"  />
-  </div>
+<p align="left">
+  <a href="https://linkedin.com/in/seonae-yeon" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
 </p>
+
+### 📊 GitHub Stats
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ifindary&show_icons=true&locale=en" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ifindary&show_icons=true&locale=en&layout=compact" height="150" alt="languages graph"  />
+</div>
+
+### 💻 Leetcode
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ifindary)
 
