@@ -29,6 +29,20 @@
   </a>
 </p>
 
+### 💼 Projects
+
+| Project Name                                             | Role               | Description                                                               |
+| -------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------- |
+| [Modugisang](https://github.com/TeamMoHead/ModuGisang)   | Frontend Developer | iOS app for early risers to join a multi-day challenge with morning games |
+| [Bewavoca](https://github.com/DigiLabChallengeHackathon) | Planner & Designer | Educational iPad app teaching Jeju dialect to kids                        |
+
+### 🎓 Education
+
+| Program Name                     | Topics Learned                                      | Period              |
+| -------------------------------- | --------------------------------------------------- | ------------------- |
+| Apple Developer Academy @Postech | iOS app design, Swift, teamwork, human-centered dev | 2025.03 - (ongoing) |
+| Krafton Jungle                   | CS basics, PintOS, data structures, algorithms      | 2024.01 - 2024.06   |
+
 ### 📊 GitHub Stats
 
 <div align="left">
