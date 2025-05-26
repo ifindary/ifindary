@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Seonae Yeon</h1>
 <h3 align="center">A passionate iOS developer from Korea</h3>
 
-### 🚀 What I'm Working On
-
-- Studying at the **Apple Developer Academy** to grow as a creative iOS developer
-- Practicing **data structures and algorithms** on LeetCode
-
 ### 🛠️ My Tech Stack
 
 <p align="left">
