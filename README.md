@@ -35,7 +35,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ifindary&show_icons=true&locale=en" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ifindary&show_icons=true&locale=en&layout=compact" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ifindary&&hide=powershell,shell,batchfile&show_icons=true&locale=en&layout=compact" height="150" alt="languages graph"  />
 </div>
 
 ### 💻 Leetcode
